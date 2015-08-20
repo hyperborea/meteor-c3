@@ -8,7 +8,7 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('METEOR@0.9.0');
-  api.use('d3js:d3@3.5.6', 'client');
+  api.use('d3js:d3@3.4.13', 'client');
   api.add_files([
     'c3/c3.min.js',
     'c3/c3.css',
