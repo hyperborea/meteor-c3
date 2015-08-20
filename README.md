@@ -1,0 +1,1 @@
+Similar to https://github.com/masayuki0812/c3.git but using the official d3 package (d3js:d3) instead.
