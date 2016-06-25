@@ -1,6 +1,6 @@
 Package.describe({
   name: 'hyperborea:c3',
-  version: '1.0.1',
+  version: '1.0.2',
   summary: 'C3 visualization library using the official D3 package.',
   git: 'https://github.com/hyperborea/meteor-c3.git',
   documentation: 'README.md'
